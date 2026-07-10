@@ -43,6 +43,26 @@ A request travels a path from idea to fielded value. Each repo covers one stage:
 - 📋 Prior: Release Train Engineer across 3 Scrum teams and 6 Product Owners; Senior BA delivering features for a government CRM modernization
 - 🎓 MBA (Information Systems – ERP) | PSM II | Lean Six Sigma Black Belt | PMI-CPMAI *(in progress, 2026)* | The Flare✨, Badges, and Ceritfications List Goes On
 
+## Verified Credentials
+
+<p align="center">
+  <a href="https://www.credly.com/badges/9f323b9e-7535-43b9-95d7-a6c886fed021"><img src="https://images.credly.com/images/09f644d1-eed2-4279-bc49-1e26cddc9d3d/linkedin_thumb_Team_Essentials.png" width="72" alt="Enterprise Design Thinking – Team Essentials for AI"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/29084fbe-706e-4756-aede-04c33d17a3b9"><img src="https://images.credly.com/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/linkedin_thumb_Badges_v8-07_Practitioner.png" width="72" alt="Enterprise Design Thinking Practitioner"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/f7084f89-b616-4fde-8756-ad2701456c33"><img src="https://images.credly.com/images/2700b813-82b8-4232-9b36-5dcd5cd24584/linkedin_thumb_Badges_v8-08_Co-Creator.png" width="72" alt="Enterprise Design Thinking Co-Creator"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/cabf6fb8-50d8-4e3b-ab6d-29d267e0419e"><img src="https://images.credly.com/images/d90cc9bc-3e9a-49b2-ac09-7930db400e32/linkedin_thumb_image.png" width="72" alt="Professional Scrum Master II"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/ea55f731-02f5-4ed9-9154-5ba54edcaf42"><img src="https://images.credly.com/images/ac4bcaaa-e15b-45ec-9b6e-04ea4c1b84ce/linkedin_thumb_C_TERP10_67.png" width="72" alt="SAP Certified Application Associate – ERP (TERP10)"/></a>
+</p>
+
+<p align="center">
+  <sub>
+    <a href="https://www.credly.com/badges/9f323b9e-7535-43b9-95d7-a6c886fed021"><b>Design Thinking: Team Essentials for AI</b></a> ·
+    <a href="https://www.credly.com/badges/29084fbe-706e-4756-aede-04c33d17a3b9"><b>Design Thinking: Practitioner</b></a> ·
+    <a href="https://www.credly.com/badges/f7084f89-b616-4fde-8756-ad2701456c33"><b>Design Thinking: Co-Creator</b></a> ·
+    <a href="https://www.credly.com/badges/cabf6fb8-50d8-4e3b-ab6d-29d267e0419e"><b>PSM II</b></a> ·
+    <a href="https://www.credly.com/badges/ea55f731-02f5-4ed9-9154-5ba54edcaf42"><b>SAP ERP (TERP10) · 2018</b></a>
+  </sub>
+</p>
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/grahamdenoyer/)
