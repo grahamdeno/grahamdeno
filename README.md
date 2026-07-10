@@ -1,16 +1,48 @@
-## Hi there 👋
+# Graham DeNoyer, MBA, PSM II
 
-<!--
-**grahamdeno/grahamdeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product & Integration, AI/ML | Program & Product Leader | U.S. Army Chief Warrant Officer Three (Retired)**
 
-Here are some ideas to get you started:
+I shape product and integration strategy for an AI/ML talent management platform: consolidating legacy personnel systems into a modern solution and defining the guardrails that make machine-driven guidance trustworthy. Twenty years across military operations and defense technology taught me to see the connections others miss — mapping interdependent systems, sequencing chaotic efforts into executable roadmaps, and building alignment between engineers, executives, and government stakeholders.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Everything I publish here comes from one conviction: **delivery is a chain of decisions, and most programs fail at the connections, not the parts.** A request has to enter cleanly, get sequenced so that each build enables the next, get defined precisely enough to build, and get communicated so the customer can actually decide. These repositories are the methods I use at each link, plus the AI workflows that accelerate all of them.
+
+---
+
+## How I Work — and What You'll Find Here
+
+A request travels a path from idea to fielded value. Each repo covers one stage:
+
+| Stage | Repository | What It Covers |
+|---|---|---|
+| **Decide & Sequence** | [`delivery-planning-framework`](https://github.com/grahamdeno/delivery-planning-framework) | How new requests enter the roadmap, how baseline changes get prioritized into releases, and how to sequence delivery so *this* enables *that* |
+| **Engage** | [`user-engagement-playbook`](https://github.com/grahamdeno/user-engagement-playbook) | A phased playbook of facilitated sessions, from stakeholder alignment through UAT, with agenda design and capture discipline |
+| **Define** | [`requirements-engineering-framework`](https://github.com/grahamdeno/requirements-engineering-framework) | Decomposing EPICs into traceable, testable requirements, and proving coverage when replacing legacy systems |
+| **Communicate** | [`decision-communication`](https://github.com/grahamdeno/decision-communication) | Options briefs, decision one-pagers, slide storylines, and status formats built for readers who scan |
+| **Accelerate** | [`ai-delivery-toolkit`](https://github.com/grahamdeno/ai-delivery-toolkit) | Prompt templates and standing AI assistants for delivery work — an AI's ceiling is set by the briefing, not the engine |
+| **Working proof** | [`engagement-map`](https://github.com/grahamdeno/engagement-map) | **[Live demo](https://grahamdeno.github.io/engagement-map/)** — a one-file dashboard showing where you engaged users and what their input changed. Running proof of the Engage stage |
+| **Working proof** | [`product-roadmap`](https://github.com/grahamdeno/product-roadmap) | **[Live demo](https://grahamdeno.github.io/product-roadmap/)** — a one-file roadmap board and feature-request voting system. Running proof of the Decide & Sequence stage, displaying the planning framework's worked example |
+
+*All published material is generalized methodology, original work, and notional demo data. No customer data, system specifics, or government work product appears in any repository.*
+
+---
+
+## Principles Behind the Work
+
+- **Sequence is strategy.** The highest-value backlog delivered in the wrong order still fails, because capability B needed capability A to matter. I plan and communicate in enablement chains, not ranked lists.
+- **Decisions should be easy to make and hard to misunderstand.** My job is to shape the choice: criteria first, options compared honestly, a recommendation with its reasoning showing, and an explicit ask. Customers decide faster when the thinking is visible.
+- **Ground truth beats reported truth.** How work is actually done diverges from how policy says it's done. Watch the workarounds; every workaround is an unstated requirement.
+- **Scrum is a leadership framework, not a religion.** It can be deviated from, under leadership that can articulate and manage its own framework. The discipline is in knowing why you deviate.
+- **Trustworthy AI is a product decision, not a model decision.** Guardrails, human-in-the-loop design, and honest disposition frameworks are what turn contested debates into documented concurrence.
+
+---
+
+## Background
+
+- 🎖️ U.S. Army Chief Warrant Officer 3 (Retired), 2004–2024 — senior program management and innovation leadership roles
+- 🤖 Product & Integration Lead for an AI/ML talent management modernization: legacy migration strategy, AI adoption roadmap, human-in-the-loop guardrails
+- 📋 Prior: Release Train Engineer across 3 Scrum teams and 6 Product Owners; Senior BA delivering features for a government CRM modernization
+- 🎓 MBA (Information Systems – ERP) | PSM II | Lean Six Sigma Black Belt | PMI-CPMAI *(in progress, 2026)* | The Flare✨, Badges, and Ceritfications List Goes On
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/grahamdenoyer/)
