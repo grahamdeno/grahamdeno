@@ -25,7 +25,7 @@ A request travels a path from idea to fielded value. Each repo covers one stage:
 *All published material is generalized methodology, original work, and notional demo data. No customer data, system specifics, or government work product appears in any repository.*
 
 
-This portfolio is itself run on the framework — the [public delivery board](https://github.com/users/grahamdeno/projects/1) is the intake gate, live.
+This portfolio is itself run on the framework — the [public delivery board](https://github.com/users/grahamdeno/projects/2) is the intake gate, live.
 
 ---
 
