@@ -19,6 +19,7 @@ A request travels a path from idea to fielded value. Each repo covers one stage:
 | **Define** | [`requirements-engineering-framework`](https://github.com/grahamdeno/requirements-engineering-framework) | Decomposing EPICs into traceable, testable requirements, and proving coverage when replacing legacy systems |
 | **Communicate** | [`decision-communication`](https://github.com/grahamdeno/decision-communication) | Options briefs, decision one-pagers, slide storylines, and status formats built for readers who scan |
 | **Accelerate** | [`ai-delivery-toolkit`](https://github.com/grahamdeno/ai-delivery-toolkit) | Prompt templates and standing AI assistants for delivery work — an AI's ceiling is set by the briefing, not the engine |
+| **Ship** | [`definition-of-shipped`](https://github.com/grahamdeno/definition-of-shipped) | Done means the work exists; shipped means it travels without you. Completion kits for every deliverable type |
 | **Working proof** | [`warfighter-engagement-map`](https://github.com/grahamdeno/warfighter-engagement-map) | **[Live demo](https://grahamdeno.github.io/warfighter-engagement-map/)** — a one-file dashboard showing where you engaged users and what their input changed. Running proof of the Engage stage |
 | **Working proof** | [`product-roadmap`](https://github.com/grahamdeno/product-roadmap) | **[Live demo](https://grahamdeno.github.io/product-roadmap/)** — a one-file roadmap board and feature-request voting system. Running proof of the Decide & Sequence stage, displaying the planning framework's worked example |
 
