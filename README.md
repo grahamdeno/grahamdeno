@@ -4,7 +4,7 @@
 
 I shape product and integration strategy for an AI/ML talent management platform: consolidating legacy personnel systems into a modern solution and defining the guardrails that make machine-driven guidance trustworthy. Twenty years across military operations and defense technology taught me to see the connections others miss — mapping interdependent systems, sequencing chaotic efforts into executable roadmaps, and building alignment between engineers, executives, and government stakeholders.
 
-Everything I publish here comes from one conviction: **delivery is a chain of decisions, and most programs fail at the connections, not the parts.** A request has to enter cleanly, get sequenced so that each build enables the next, get defined precisely enough to build, and get communicated so the customer can actually decide. These repositories are the methods I use at each link, plus the AI workflows that accelerate all of them.
+Everything I publish here comes from one conviction: **delivery is a chain of decisions, and most programs fail at the connections, not the parts.** A request has to enter cleanly, get sequenced so that each build enables the next, get defined precisely enough to build, and get communicated so the customer can actually decide, and when AI is in the chain, it has to earn the right to be trusted with a decision. These repositories are the methods I use at each link, plus the AI workflows that accelerate all of them.
 
 ---
 
