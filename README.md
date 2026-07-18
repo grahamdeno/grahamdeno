@@ -45,7 +45,7 @@ This portfolio is itself run on the framework — the [public delivery board](ht
 - 🎖️ U.S. Army Chief Warrant Officer 3 (Retired), 2004–2024 — senior program management and innovation leadership roles
 - 🤖 Product & Integration Lead for an AI/ML talent management modernization: legacy migration strategy, AI adoption roadmap, human-in-the-loop guardrails
 - 📋 Prior: Release Train Engineer across 3 Scrum teams and 6 Product Owners; Senior BA delivering features for a government CRM modernization
-- 🎓 MBA (Information Systems – ERP) | PSM II | Lean Six Sigma Black Belt | PMI-CPMAI *(in progress, 2026)* | The Flare✨, Badges, and Ceritfications List Goes On
+- 🎓 MBA (Information Systems – ERP) | PSM II | Lean Six Sigma Black Belt | PMI-CPMAI *(in progress, 2026)*
 
 ## Verified Credentials
 
